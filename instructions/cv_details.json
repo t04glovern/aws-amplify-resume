@@ -1,0 +1,112 @@
+[{
+        "id": 1,
+        "position": "Hardware Systems Design & Development SME",
+        "company": "BHP",
+        "location": "Perth, Western Australia",
+        "dates": "August 2017 – Current",
+        "summary": "Working as an energetic member of the Digital Tribe, I work with a variety of people with a diverse backgrounds on big problems as we drive a Digital Transformation within the Decision automation space. More recently I've moved into a DevOp support role where I ensure that Cloud deployments for various services are standardized and automated (using tools like CloudFormation and Terraform).",
+        "accomplishments": [
+            "Accustomed to an agile deliver, and adding value through software and hardware sprints",
+            "Embedded software and hardware design and implementation",
+            "Continuous integration across infrustructure and software pipelines.",
+            "AWS orchastration of developer workflows through the targeted usage of AWS Cloudformation & Terraform."
+        ],
+        "competencies": [
+            "Cloudformation",
+            "CodeBuild / GoCD",
+            "Docker",
+            "Kubernetes",
+            "ReactJS",
+            "Springboot"
+        ]
+    },
+    {
+        "id": 2,
+        "position": "Software/Network Engineer (Intern)",
+        "company": "Cisco IoE Innovation Centre",
+        "location": "Perth, Western Australia",
+        "dates": "February 2017 – August 2017",
+        "summary": "Worked as a motivated team member on Software/Network engineering projects exposing myself to the design process of platforms and systems in the emerging IoT space. I worked alongside a team of developers and on a number of software and hardware development projects.",
+        "accomplishments": [
+            "Design dynamic and flexible frontends with Python web frameworks (Flask & Django).",
+            "Network hardware design and configuration.",
+            "Container deployment and management on a broad range of architectures.",
+            "Mobile application development using typical package/build management methods (Gradle, Maven)",
+            "Concise workflow documentation"
+        ],
+        "competencies": [
+            "Python Flask",
+            "Javascript / Bootstrap",
+            "Cisco IOS",
+            "RPi / IoT",
+            "Docker",
+            "Jenkins",
+            "Nagios"
+        ]
+    },
+    {
+        "id": 3,
+        "position": "Network and System Administrator",
+        "company": "Galati Group",
+        "location": "Perth, Western Australia",
+        "dates": "December 2014 – November 2016",
+        "summary": "Worked as part of a motivated IT Team, servicing and managing 15+ sites across WA. Regular tasks included maintaining backup systems, improving DR solutions, researching and investigating new technologies and managing a variety of server platforms and POS systems. I worked directly on a number of Infrastructure projects that had me assist in the design and implementation of a large upgrade to our existing core business systems. I managed the majority of service request that came through that requiring changes to be made to our virtualization platform and storage cluster.",
+        "accomplishments": [
+            "Administration and Installation of 300+ Windows Desktop/Server based systems.",
+            "Thorough documentation of new and current hardware and software processes.",
+            "Experienced at dealing with users on a daily basis for any IT needs.",
+            "POS and EFTPOS installation and management.",
+            "ESXi / vCenter implementation and servicing.",
+            "Veeam & ShadowProtect backup scheduling & maintainence.",
+            "Managing and Administering project documentation.",
+            "Task automation when applicable.",
+            "Responsible for upgrading and managing our support desks ticketing system."
+        ],
+        "competencies": [
+            "ESXi / vCenter",
+            "Redmine",
+            "Veeam / ShadowProtect",
+            "N-able",
+            "PC-EFTPOS"
+        ]
+    },
+    {
+        "id": 4,
+        "position": "Support Technician",
+        "company": "Command IT",
+        "location": "Perth, Western Australia",
+        "dates": "November 2012 – November 2014",
+        "summary": "Design, configure, install and support Networking and Server solutions to a number of Small/Medium businesses across Perth and The Pilbara Region both Remotely and on site. I task myself to troubleshoot, diagnose and resolve any issues that our customers might be having. My role requires me to work and solve issues independently; but also offer my skills and knowledge to the other Technicians in my team.",
+        "accomplishments": [
+            "Documentation (Work Instructions, Network topology Diagrams).",
+            "Monitoring and site management for over 70 businesses across Western Australia through SolarWinds N-able Technologies.",
+            "Proper phone etiquette and strong relationships with my clients.",
+            "Design and implementation of Server 2008/2012 solutions in offices ranging from 5-70 users.",
+            "Implementation of Visualized Server solutions.",
+            "Experience with a range of Netgear solutions including UTM's, ReadyNAS/Data, WAP's and Switching."
+        ],
+        "competencies": [
+            "Hyper-V",
+            "ShadowProtect",
+            "N-able",
+            "SMB Architecture"
+        ]
+    },
+    {
+        "id": 5,
+        "position": "Sales",
+        "company": "EB Games Australia",
+        "location": "Perth, Western Australia",
+        "dates": "November 2009 – November 2012",
+        "summary": "Assisted Customers by providing Trusted and Knowledgeable advice in a retail environment. Developed a strong connection of loyalty and trust from my Customers. Worked in a number of different Branches across Perth and was able to easily pick up tasks and complete my work at a High standard no matter the location.",
+        "accomplishments": [
+            "Stock Management (Stocktake and daily/weekly counts of all Products).",
+            "KPI Tracking and Training for myself and my co-workers.",
+            "Strong, Loyal Customer relationships.",
+            "Managing tasks and time-frames for Co-workers to follow."
+        ],
+        "competencies": [
+
+        ]
+    }
+]
