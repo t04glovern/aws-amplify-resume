@@ -2,8 +2,6 @@
 
 ![serverless-resume-example](instructions/img/serverless-resume-example.png)
 
-Site can be viewed at [http://aws-amplify-resume-20190216201814-hostingbucket-ampresume.s3-website-us-east-1.amazonaws.com/](http://aws-amplify-resume-20190216201814-hostingbucket-ampresume.s3-website-us-east-1.amazonaws.com/)
-
 ## API Schema
 
 ```graphql
