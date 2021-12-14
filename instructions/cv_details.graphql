@@ -1,6 +1,74 @@
 mutation CreateJob {
   createJob(input: {
     id: 1,
+    position: "Platform Engineer",
+    company: "First Mode",
+    location: "Perth, Western Australia",
+    dates: "April 2021 – Current",
+    summary: "",
+    accomplishments: [
+      "Designed and maintained the company AWS Transit Gateway architecture",
+      "Built tooling to improve developer experience across internal and customer facing projects",
+      "Created an AWS account vending process with secure governce and user onboarding",
+      "Migrated numorous on-prem services to cloud native alternatives"
+    ]
+    competencies: [
+      "AWS",
+      "Containers",
+      "Transit Gateway",
+      "Ansible",
+      "Governance"
+    ]
+  }) {
+    id
+    position
+    company
+    location
+    dates
+    summary
+    accomplishments
+    competencies
+  }
+}
+
+mutation CreateJob {
+  createJob(input: {
+    id: 2,
+    position: "Senior DevOps Consultant",
+    company: "Mechanical Rock",
+    location: "Perth, Western Australia",
+    dates: "March 2019 – Febuary 2020",
+    summary: "As a Senior DevOps consultant, I passionately work with customers around Perth and helping to guide them on their cloud journeys. With customer value in mind we utilise modern methodologies such as Continuous Delivery, Infrastructure-as-code & Behaviour-driven development to accelerate teams to the next level.",
+    accomplishments: [
+      "Qualified & Have ran a number of AWS Well-Architected reviews for production workloads.",
+      "Architecting & implementing numerous AWS & GCP projects",
+      "Communicating closely with businesses and ensuring we deliver exactly what they need.",
+      "Mentoring clients and bringing everyone along for the journey during development",
+      "End-to-end Infrastructure-as-Code to encourage faster and more frequent deployments to production"
+    ]
+    competencies: [
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "DevOps",
+      "BDD",
+      "Infrastructure-as-Code"
+    ]
+  }) {
+    id
+    position
+    company
+    location
+    dates
+    summary
+    accomplishments
+    competencies
+  }
+}
+
+mutation CreateJob {
+  createJob(input: {
+    id: 3,
     position: "Hardware Systems Design & Development SME",
     company: "BHP",
     location: "Perth, Western Australia",
@@ -34,7 +102,7 @@ mutation CreateJob {
 
 mutation CreateJob {
   createJob(input: {
-    id: 2,
+    id: 4,
     position: "Software/Network Engineer (Intern)",
     company: "Cisco IoE Innovation Centre",
     location: "Perth, Western Australia",
@@ -70,7 +138,7 @@ mutation CreateJob {
 
 mutation CreateJob {
   createJob(input: {
-    id: 3,
+    id: 5,
     position: "Network and System Administrator",
     company: "Galati Group",
     location: "Perth, Western Australia",
@@ -108,7 +176,7 @@ mutation CreateJob {
 
 mutation CreateJob {
   createJob(input: {
-    id: 4,
+    id: 6,
     position: "Support Technician",
     company: "Command IT",
     location: "Perth, Western Australia",
@@ -127,35 +195,6 @@ mutation CreateJob {
       "ShadowProtect",
       "N-able",
       "SMB Architecture"
-    ]
-  }) {
-    id
-    position
-    company
-    location
-    dates
-    summary
-    accomplishments
-    competencies
-  }
-}
-
-mutation CreateJob {
-  createJob(input: {
-    id: 5,
-    position: "Sales",
-    company: "EB Games Australia",
-    location: "Perth, Western Australia",
-    dates: "November 2009 – November 2012",
-    summary: "Assisted Customers by providing Trusted and Knowledgeable advice in a retail environment. Developed a strong connection of loyalty and trust from my Customers. Worked in a number of different Branches across Perth and was able to easily pick up tasks and complete my work at a High standard no matter the location.",
-    accomplishments: [
-      "Stock Management (Stocktake and daily/weekly counts of all Products).",
-      "KPI Tracking and Training for myself and my co-workers.",
-      "Strong, Loyal Customer relationships.",
-      "Managing tasks and time-frames for Co-workers to follow."
-    ]
-    competencies: [
-
     ]
   }) {
     id
